@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftGameOfLife",
+        "repositoryURL": "https://github.com/phcacique/SwiftGameOfLife.git",
+        "state": {
+          "branch": "master",
+          "revision": "35aa9162efdd576215826f3c975da406c8031eff",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
